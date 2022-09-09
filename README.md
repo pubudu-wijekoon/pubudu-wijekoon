@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pubudu-wijekoon
+- 👋 Hi, I’m Pubudu Wijekoon
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning React
 - 📫 Write to me on pubudu.yj@gmail.com
