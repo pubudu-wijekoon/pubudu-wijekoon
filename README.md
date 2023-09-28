@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pubudu Wijekoon
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Flutter
 - 📫 Write to me on pubudu.yj@gmail.com
 
 <!---
