@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 📫 Write to me on pubudu.yj@gmail.com
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu-wijekoon&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu-wijekoon&hide_progress=true&theme=great-gatsby)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pubudu-wijekoon&theme=great-gatsby&border_radius=1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!---
