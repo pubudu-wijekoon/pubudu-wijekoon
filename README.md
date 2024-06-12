@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Flutter
 - 📫 Write to me on pubudu.yj@gmail.com
-</br>
+
 # About My Github  
 <br/> 
 <div align="left">
