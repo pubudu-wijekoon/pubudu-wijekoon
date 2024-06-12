@@ -6,8 +6,8 @@
 # About My Github  
 <br/> 
 <div align="left">
-<img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu-wijekoon&hide_progress=true&theme=great-gatsby" align="center" />
-<img height='170' src="https://streak-stats.demolab.com?user=pubudu-wijekoon&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D" align="center" />
+<img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu-wijekoon&hide_progress=true&theme=great-gatsby&border_radius=8" align="center" />
+<img height='170' src="https://streak-stats.demolab.com?user=pubudu-wijekoon&theme=great-gatsby&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" align="center" />
 </div> 
 
 <!---
