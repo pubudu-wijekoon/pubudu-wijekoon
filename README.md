@@ -3,12 +3,11 @@
 - 🌱 I’m currently learning Flutter
 - 📫 Write to me on pubudu.yj@gmail.com
 </br>
-
 # About My Github  
 <br/> 
 <div align="left">
 <img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu-wijekoon&hide_progress=true&theme=great-gatsby" align="center" />
-<img height='170' src="[https://github-readme-stats.vercel.app/api?username=Espresso521&show_icons=true&theme=cobalt](https://streak-stats.demolab.com?user=pubudu-wijekoon&theme=great-gatsby&border_radius=1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" align="center" />
+<img height='170' src="https://streak-stats.demolab.com?user=pubudu-wijekoon&theme=great-gatsby&border_radius=1&date_format=M%20j%5B%2C%20Y%5D" align="center" />
 </div> 
 
 <!---
