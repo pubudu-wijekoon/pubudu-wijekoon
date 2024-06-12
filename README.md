@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pubudu Wijekoon
 - 👀 I’m interested in Developing
-- 🗄️ <a href="www.jp-across.com" target="_blank">Across</a>
+- 🗄️ www.jp-across.com
 - 🌱 I’m currently learning Flutter
 - 📫 Write to me on pubudu.yj@gmail.com
 
