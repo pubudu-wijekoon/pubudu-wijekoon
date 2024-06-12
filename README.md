@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pubudu Wijekoon
-- 👀 I’m interested in Developing
-- 🗄️ www.jp-across.com
-- 🌱 I’m currently learning Flutter
+- 🏠 From Sri Lanka
+- 🏢 www.jp-across.com
+- 🖥️ Full Stack Developer
 - 📫 Write to me on pubudu.yj@gmail.com
 
 # About My Github  
